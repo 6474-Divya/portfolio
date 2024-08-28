@@ -1,2 +1,2 @@
-# portfolio
-websit
+# Divya_Portfolio
+Portfolio Website
